@@ -1,0 +1,5 @@
+*.pyc
+tokentoken.py
+testing_file.py
+bot.log
+settings.py
